@@ -4,7 +4,7 @@
         "menuId": 1,
         "menuItems": [
           {
-            "image": "assets/pizza.jpg",
+            "image": "./pizza.jpg",
             "menuTabId": 1,
             "menuItemPrices": [
               {
@@ -38,7 +38,7 @@
             "description": "Ciasto pszenne"
           },
           {
-            "image": "assets/pizza.jpg",
+            "image": "./pizza.jpg",
             "menuTabId": 1,
             "menuItemPrices": [
               {
@@ -72,7 +72,7 @@
             "description": "Sos, Ser"
           },
           {
-            "image": "assets/pizza.jpg",
+            "image": "./pizza.jpg",
             "menuTabId": 1,
             "menuItemPrices": [
               {
@@ -106,7 +106,7 @@
             "description": "Sos, Ser"
           },
           {
-            "image": "assets/pizza.jpg",
+            "image": "./pizza.jpg",
             "menuTabId": 1,
             "menuItemPrices": [
               {
@@ -148,7 +148,7 @@
         "menuId": 1,
         "menuItems": [
           {
-            "image": "assets/pizza.jpg",
+            "image": "./pizza.jpg",
             "menuTabId": 2,
             "menuItemPrices": [
               {

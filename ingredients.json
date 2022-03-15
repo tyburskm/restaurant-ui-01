@@ -1,1 +1,92 @@
-
+[
+    {
+      "amount": 0,
+      "value": 3,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 1,
+      "name": "Peczarki",
+      "description": ""
+    },
+    {
+      "amount": 0,
+      "value": 3,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 2,
+      "name": "Cebula",
+      "description": ""
+    },
+    {
+      "amount": 0,
+      "value": 3,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 3,
+      "name": "Ser",
+      "description": ""
+    },
+    {
+      "amount": 0,
+      "value": 4,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 4,
+      "name": "Szynka",
+      "description": ""
+    },
+    {
+      "amount": 0,
+      "value": 4,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 5,
+      "name": "Kurczak",
+      "description": ""
+    },
+    {
+      "amount": 0,
+      "value": 3,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 6,
+      "name": "Ogórek",
+      "description": ""
+    },
+    {
+      "amount": 0,
+      "value": 4,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 7,
+      "name": "Kiełbasa",
+      "description": ""
+    },
+    {
+      "amount": 0,
+      "value": 4,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 8,
+      "name": "Szynka parmeńska",
+      "description": null
+    },
+    {
+      "amount": 0,
+      "value": 3,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 9,
+      "name": "Mozzarella",
+      "description": null
+    },
+    {
+      "amount": 0,
+      "value": 3,
+      "currency": "zł",
+      "image": "./pizza.jpg",
+      "id": 10,
+      "name": "Pomidorki koktailowe",
+      "description": null
+    }
+  ]

@@ -1,6 +1,19 @@
 {
   "pl": "en",
   "Contact": "Kontakt",
+  "Offer": "Oferta",
   "Home": "Strona Główna",
+  "needpage": "Potrzebujesz strony internetowej lub własnej aplikacji?",
+  "needtext": "Skontaktuj się ze mną. Pomogę w zaprojektowaniu strony, aplikacji czy nawet całego systemu! Indywidualna wycana w zależności od zakresu prac. Zapraszam do kontaktu.",
+  "whatido": "Moje strony tworzę w oparciu o framework Angular. Dzięki temu są one 'lekkie', szybkie, responsywne i zawsze aktualne. Produknet koncowym frameworka Angular jest statyczna strona która może być uruchomiona na dowolnym hostingu opartym o windows, linux, docker czy chmurę.",
+  "experience": "Tworzę aplikacje webowe, desktopowe, serwisy oraz API. Pomogę w przygotowaniu środowiska uruchomieniowego i potrzebnej konfiguracji. Mam doswiadczenie w pracy z chmurą AWS potwierdzone certyfikatem.",
+  "youremail": "Twój adres email:",
+  "invalidemail": "Podany email jest nieprawidłowy",
+  "emailis": "Email jest ",
+  "required": "wymagany",
+  "emailcontent": "Treść maila",
+  "emailcontentreq": "Treść maila jest ",
+  "requiredec": "wymagana",
+  "Send": "Wyślij",
   "inprogress": "Strona w przygotowaniu. Jesli potrzebujesz wlasnej strony / programu skontaktuj sie ze mna!"
 }

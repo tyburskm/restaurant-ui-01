@@ -1,6 +1,19 @@
 {
   "pl": "pl",
   "Contact": "Contact",
+  "Offer": "Offer",
   "Home": "Home",
+  "needpage": "Need web page or your own application?",
+  "needtext": "Reach me out. I will help you to design yopur web page, application or even whole system! Individual pricing depending on the scope of work. Contact me.",
+  "whatido": "I create my websites based on the Angular framework. Thanks to this, they are 'light', fast, responsive and always up to date. The final product of the Angular framework is a static website that can be run on any hosting based on Windows, Linux, Docker or the cloud.",
+  "experience": "I create web and desktop applications, websites and APIs. I will help you prepare the runtime environment and the necessary configuration. I have experience in working with the AWS cloud confirmed by a certificate.",
+  "youremail": "Your email address",
+  "invalidemail": "Provided email is invalid",
+  "emailis": "Email is ",
+  "required": "required",
+  "emailcontent": "Email content",
+  "emailcontentreq": "Email content is ",
+  "requiredec": "required",
+  "Send": "Send",
   "inprogress": "Page under construction. If you need your own web page / application please contact me!"
 }
